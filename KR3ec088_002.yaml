@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3ec088/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大豆黃卷或胡爛絞汁或炒為末用黑大豆為蘖芽生五寸長便乾之名為黃卷一法壬癸日以井華水浸大豆候生芽取皮陰乾用得前胡杏子牡蠣烏喙天雄鼠屎共蜜和良惡海藻龍膽
+  hash: sha256:9ced63220f72637d4ca50c52f6c95866d7e5d0393cf19bab01171a614d910fba
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ec088_jc_NaN-d11.d7.h1s1}
+  - {type: 'tls:div-end', offset: 73, content: '', id: KR3ec088_jc_000-d11d7}
+  - {type: 'tls:div-start', offset: 73, content: '', id: KR3ec088_jc_000-d11d8, level: 2, head_text: 酒}
+metadata:
+  title: 炮炙大法
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec088.xml
+hash: sha256:62ec58db788041cea2764a8baded78ac88e048d8be6f975acd6d4b62896c1d7b
