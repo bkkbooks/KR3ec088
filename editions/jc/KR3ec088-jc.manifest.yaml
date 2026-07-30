@@ -19,11 +19,11 @@ assets:
   parts:
   - {seq: 1, filename: KR3ec088_001-jc.yaml, hash: 'sha256:033251d0aa440a2781e7510506af7c415124c7780e8c8bc17af0e40bc7ff482a'}
   - {seq: 2, filename: KR3ec088_002-jc.yaml, hash: 'sha256:62ec58db788041cea2764a8baded78ac88e048d8be6f975acd6d4b62896c1d7b'}
-  - {seq: 3, filename: KR3ec088_003-jc.yaml, hash: 'sha256:6d014edbfa376c0ad0fdf470cfc9df411ce12385aacd263abf3765a48a8f1f5e'}
+  - {seq: 3, filename: KR3ec088_003-jc.yaml, hash: 'sha256:ab59ffb429f00ee9bad03270918bca0538f99c53ff6e23748d56bdab19a9f15c'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ec088_001-jc.markers.yaml, hash: 'sha256:6f80fcffef5aaa7c73e23a822455d1b15745ded982936338a9d6cfa022377ed2'}
   - {seq: 2, role: markers, filename: assets/KR3ec088_002-jc.markers.yaml, hash: 'sha256:c1cc8a118549f7bd9e5bac118f98f413362aa27ec555dd66e79a06d1cafa1fdc'}
-  - {seq: 3, role: markers, filename: assets/KR3ec088_003-jc.markers.yaml, hash: 'sha256:b7442662e9420d690dfc89e1bd9b96ecd669bbfb011539b0368c90cb2b314455'}
+  - {seq: 3, role: markers, filename: assets/KR3ec088_003-jc.markers.yaml, hash: 'sha256:a8942b674613281ab4105c971c6e06d6c0a0af2e04886e1a84783148bf29ad44'}
 table_of_contents:
 - ref:
     seq: 1
@@ -3329,7 +3329,7 @@ table_of_contents:
     seq: 3
     marker_id: KR3ec088_jc_000-d19.h1s1
     span:
-    - front
+    - body
     - 0
     - 322
   label: 服藥序次
@@ -3340,8 +3340,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11.h1s1
     span:
     - body
-    - 0
-    - 642
+    - 322
+    - 964
   label: 米穀部
   type: section
   level: 1
@@ -3350,8 +3350,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d9
     span:
     - body
-    - 20
-    - 37
+    - 342
+    - 359
   label: 粟米
   type: section
   level: 2
@@ -3360,8 +3360,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d10
     span:
     - body
-    - 37
-    - 47
+    - 359
+    - 369
   label: 秫米
   type: section
   level: 2
@@ -3370,8 +3370,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d11
     span:
     - body
-    - 47
-    - 57
+    - 369
+    - 379
   label: 粳米
   type: section
   level: 2
@@ -3380,8 +3380,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d12
     span:
     - body
-    - 57
-    - 108
+    - 379
+    - 430
   label: 糵米
   type: section
   level: 2
@@ -3390,8 +3390,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d13
     span:
     - body
-    - 108
-    - 149
+    - 430
+    - 471
   label: 舂杵頭細糠
   type: section
   level: 2
@@ -3400,8 +3400,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d14
     span:
     - body
-    - 149
-    - 160
+    - 471
+    - 482
   label: 小麥
   type: section
   level: 2
@@ -3410,8 +3410,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d15
     span:
     - body
-    - 160
-    - 168
+    - 482
+    - 490
   label: 麥麩
   type: section
   level: 2
@@ -3420,8 +3420,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d16
     span:
     - body
-    - 168
-    - 221
+    - 490
+    - 543
   label: 蕎麥
   type: section
   level: 2
@@ -3430,8 +3430,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d17
     span:
     - body
-    - 221
-    - 252
+    - 543
+    - 574
   label: 曲
   type: section
   level: 2
@@ -3440,8 +3440,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d18
     span:
     - body
-    - 252
-    - 393
+    - 574
+    - 715
   label: 神麯
   type: section
   level: 2
@@ -3450,8 +3450,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d19
     span:
     - body
-    - 393
-    - 420
+    - 715
+    - 742
   label: 扁豆
   type: section
   level: 2
@@ -3460,8 +3460,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d20
     span:
     - body
-    - 420
-    - 477
+    - 742
+    - 799
   label: 淡豆豉
   type: section
   level: 2
@@ -3470,8 +3470,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d21
     span:
     - body
-    - 477
-    - 492
+    - 799
+    - 814
   label: 紅曲
   type: section
   level: 2
@@ -3480,8 +3480,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d22
     span:
     - body
-    - 492
-    - 552
+    - 814
+    - 874
   label: 綠豆
   type: section
   level: 2
@@ -3490,8 +3490,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d23
     span:
     - body
-    - 552
-    - 581
+    - 874
+    - 903
   label: 醋
   type: section
   level: 2
@@ -3500,8 +3500,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d24
     span:
     - body
-    - 581
-    - 610
+    - 903
+    - 932
   label: 醬
   type: section
   level: 2
@@ -3510,8 +3510,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d11d25
     span:
     - body
-    - 610
-    - 642
+    - 932
+    - 964
   label: 罌子粟
   type: section
   level: 2
@@ -3520,8 +3520,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12.h1s1
     span:
     - body
-    - 642
-    - 1039
+    - 964
+    - 1361
   label: 菜部
   type: section
   level: 1
@@ -3530,8 +3530,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d2
     span:
     - body
-    - 644
-    - 695
+    - 966
+    - 1017
   label: 瓜蒂
   type: section
   level: 2
@@ -3540,8 +3540,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d3
     span:
     - body
-    - 695
-    - 741
+    - 1017
+    - 1063
   label: 白冬瓜
   type: section
   level: 2
@@ -3550,8 +3550,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d4
     span:
     - body
-    - 741
-    - 746
+    - 1063
+    - 1068
   label: 白芥子
   type: section
   level: 2
@@ -3560,8 +3560,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d5
     span:
     - body
-    - 746
-    - 792
+    - 1068
+    - 1114
   label: 萊菔
   type: section
   level: 2
@@ -3570,8 +3570,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d6
     span:
     - body
-    - 792
-    - 810
+    - 1114
+    - 1132
   label: 萊菔子
   type: section
   level: 2
@@ -3580,8 +3580,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d7
     span:
     - body
-    - 810
-    - 825
+    - 1132
+    - 1147
   label: 黃蜀葵花
   type: section
   level: 2
@@ -3590,8 +3590,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d8
     span:
     - body
-    - 825
-    - 843
+    - 1147
+    - 1165
   label: 蔥頭
   type: section
   level: 2
@@ -3600,8 +3600,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d9
     span:
     - body
-    - 843
-    - 877
+    - 1165
+    - 1199
   label: 韭
   type: section
   level: 2
@@ -3610,8 +3610,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d10
     span:
     - body
-    - 877
-    - 893
+    - 1199
+    - 1215
   label: 荊芥
   type: section
   level: 2
@@ -3620,8 +3620,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d11
     span:
     - body
-    - 893
-    - 918
+    - 1215
+    - 1240
   label: 蘇子
   type: section
   level: 2
@@ -3630,8 +3630,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d12
     span:
     - body
-    - 918
-    - 928
+    - 1240
+    - 1250
   label: 紫蘇
   type: section
   level: 2
@@ -3640,8 +3640,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d13
     span:
     - body
-    - 928
-    - 937
+    - 1250
+    - 1259
   label: 薄荷
   type: section
   level: 2
@@ -3650,8 +3650,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d14
     span:
     - body
-    - 937
-    - 961
+    - 1259
+    - 1283
   label: 苦匏
   type: section
   level: 2
@@ -3660,8 +3660,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d15
     span:
     - body
-    - 961
-    - 998
+    - 1283
+    - 1320
   label: 馬齒莧
   type: section
   level: 2
@@ -3670,8 +3670,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d16
     span:
     - body
-    - 998
-    - 1011
+    - 1320
+    - 1333
   label: 蕺菜
   type: section
   level: 2
@@ -3680,8 +3680,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d12d17
     span:
     - body
-    - 1011
-    - 1039
+    - 1333
+    - 1361
   label: 木耳
   type: section
   level: 2
@@ -3690,8 +3690,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13.h1s1
     span:
     - body
-    - 1039
-    - 1368
+    - 1361
+    - 1690
   label: 人部
   type: section
   level: 1
@@ -3700,8 +3700,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13d2
     span:
     - body
-    - 1041
-    - 1099
+    - 1363
+    - 1421
   label: 發髲
   type: section
   level: 2
@@ -3710,8 +3710,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13d3
     span:
     - body
-    - 1099
-    - 1108
+    - 1421
+    - 1430
   label: 人乳汁
   type: section
   level: 2
@@ -3720,8 +3720,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13d4
     span:
     - body
-    - 1108
-    - 1115
+    - 1430
+    - 1437
   label: 人牙齒
   type: section
   level: 2
@@ -3730,8 +3730,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13d5
     span:
     - body
-    - 1115
-    - 1140
+    - 1437
+    - 1462
   label: 人糞
   type: section
   level: 2
@@ -3740,8 +3740,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13d6
     span:
     - body
-    - 1140
-    - 1155
+    - 1462
+    - 1477
   label: 人溺
   type: section
   level: 2
@@ -3750,8 +3750,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13d7
     span:
     - body
-    - 1155
-    - 1166
+    - 1477
+    - 1488
   label: 人中白
   type: section
   level: 2
@@ -3760,8 +3760,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13d8
     span:
     - body
-    - 1166
-    - 1187
+    - 1488
+    - 1509
   label: 褲襠
   type: section
   level: 2
@@ -3770,8 +3770,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13d9
     span:
     - body
-    - 1187
-    - 1293
+    - 1509
+    - 1615
   label: 天靈蓋
   type: section
   level: 2
@@ -3780,8 +3780,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d13d10
     span:
     - body
-    - 1293
-    - 1368
+    - 1615
+    - 1690
   label: 紫河車
   type: section
   level: 2
@@ -3790,8 +3790,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14.h1s1
     span:
     - body
-    - 1368
-    - 2849
+    - 1690
+    - 3171
   label: 獸部
   type: section
   level: 1
@@ -3800,8 +3800,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d2
     span:
     - body
-    - 1370
-    - 1536
+    - 1692
+    - 1858
   label: 龍骨
   type: section
   level: 2
@@ -3810,8 +3810,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d3
     span:
     - body
-    - 1536
-    - 1550
+    - 1858
+    - 1872
   label: 龍齒
   type: section
   level: 2
@@ -3820,8 +3820,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d4
     span:
     - body
-    - 1550
-    - 1696
+    - 1872
+    - 2018
   label: 麝香
   type: section
   level: 2
@@ -3830,8 +3830,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d5
     span:
     - body
-    - 1696
-    - 1874
+    - 2018
+    - 2196
   label: 牛黃
   type: section
   level: 2
@@ -3840,8 +3840,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d6
     span:
     - body
-    - 1874
-    - 1882
+    - 2196
+    - 2204
   label: 象牙
   type: section
   level: 2
@@ -3850,8 +3850,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d7
     span:
     - body
-    - 1882
-    - 1929
+    - 2204
+    - 2251
   label: 鹿角膠
   type: section
   level: 2
@@ -3860,8 +3860,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d8
     span:
     - body
-    - 1929
-    - 1986
+    - 2251
+    - 2308
   label: 阿膠
   type: section
   level: 2
@@ -3870,8 +3870,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d9
     span:
     - body
-    - 1986
-    - 2046
+    - 2308
+    - 2368
   label: 白馬莖
   type: section
   level: 2
@@ -3880,8 +3880,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d10
     span:
     - body
-    - 2046
-    - 2183
+    - 2368
+    - 2505
   label: 鹿茸
   type: section
   level: 2
@@ -3890,8 +3890,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d11
     span:
     - body
-    - 2183
-    - 2193
+    - 2505
+    - 2515
   label: 牛膽
   type: section
   level: 2
@@ -3900,8 +3900,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d12
     span:
     - body
-    - 2193
-    - 2212
+    - 2515
+    - 2534
   label: 牡狗陰莖
   type: section
   level: 2
@@ -3910,8 +3910,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d13
     span:
     - body
-    - 2212
-    - 2325
+    - 2534
+    - 2647
   label: 羚羊角
   type: section
   level: 2
@@ -3920,8 +3920,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d14
     span:
     - body
-    - 2325
-    - 2445
+    - 2647
+    - 2767
   label: 犀角
   type: section
   level: 2
@@ -3930,8 +3930,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d15
     span:
     - body
-    - 2445
-    - 2507
+    - 2767
+    - 2829
   label: 虎骨
   type: section
   level: 2
@@ -3940,8 +3940,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d16
     span:
     - body
-    - 2507
-    - 2530
+    - 2829
+    - 2852
   label: 豬懸蹄
   type: section
   level: 2
@@ -3950,8 +3950,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d17
     span:
     - body
-    - 2530
-    - 2537
+    - 2852
+    - 2859
   label: 豬四足
   type: section
   level: 2
@@ -3960,8 +3960,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d18
     span:
     - body
-    - 2537
-    - 2546
+    - 2859
+    - 2868
   label: 豬膽
   type: section
   level: 2
@@ -3970,8 +3970,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d19
     span:
     - body
-    - 2546
-    - 2567
+    - 2868
+    - 2889
   label: 豬肚
   type: section
   level: 2
@@ -3980,8 +3980,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d20
     span:
     - body
-    - 2567
-    - 2656
+    - 2889
+    - 2978
   label: 糜角
   type: section
   level: 2
@@ -3990,8 +3990,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d21
     span:
     - body
-    - 2656
-    - 2664
+    - 2978
+    - 2986
   label: 狐陰莖
   type: section
   level: 2
@@ -4000,8 +4000,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d22
     span:
     - body
-    - 2664
-    - 2709
+    - 2986
+    - 3031
   label: 獺肝
   type: section
   level: 2
@@ -4010,8 +4010,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d23
     span:
     - body
-    - 2709
-    - 2728
+    - 3031
+    - 3050
   label: 猯肉
   type: section
   level: 2
@@ -4020,8 +4020,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d14d24
     span:
     - body
-    - 2728
-    - 2849
+    - 3050
+    - 3171
   label: 膃肭臍
   type: section
   level: 2
@@ -4030,8 +4030,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d15.h1s1
     span:
     - body
-    - 2849
-    - 3058
+    - 3171
+    - 3380
   label: 禽部
   type: section
   level: 1
@@ -4040,8 +4040,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d15d2
     span:
     - body
-    - 2851
-    - 2941
+    - 3173
+    - 3263
   label: 雄雀屎
   type: section
   level: 2
@@ -4050,8 +4050,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d15d3
     span:
     - body
-    - 2941
-    - 3010
+    - 3263
+    - 3332
   label: 伏翼
   type: section
   level: 2
@@ -4060,8 +4060,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d15d4
     span:
     - body
-    - 3010
-    - 3058
+    - 3332
+    - 3380
   label: 天鼠屎
   type: section
   level: 2
@@ -4070,8 +4070,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16.h1s1
     span:
     - body
-    - 3058
-    - 5304
+    - 3380
+    - 5626
   label: 蟲魚部
   type: section
   level: 1
@@ -4080,8 +4080,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d2
     span:
     - body
-    - 3061
-    - 3144
+    - 3383
+    - 3466
   label: 石蜜
   type: section
   level: 2
@@ -4090,8 +4090,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d3
     span:
     - body
-    - 3144
-    - 3207
+    - 3466
+    - 3529
   label: 蜜蠟
   type: section
   level: 2
@@ -4100,8 +4100,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d4
     span:
     - body
-    - 3207
-    - 3283
+    - 3529
+    - 3605
   label: 牡蠣
   type: section
   level: 2
@@ -4110,8 +4110,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d5
     span:
     - body
-    - 3283
-    - 3347
+    - 3605
+    - 3669
   label: 真珠
   type: section
   level: 2
@@ -4120,8 +4120,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d6
     span:
     - body
-    - 3347
-    - 3374
+    - 3669
+    - 3696
   label: 玳瑁
   type: section
   level: 2
@@ -4130,8 +4130,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d7
     span:
     - body
-    - 3374
-    - 3444
+    - 3696
+    - 3766
   label: 桑螵蛸
   type: section
   level: 2
@@ -4140,8 +4140,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d8
     span:
     - body
-    - 3444
-    - 3541
+    - 3766
+    - 3863
   label: 石決明
   type: section
   level: 2
@@ -4150,8 +4150,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d9
     span:
     - body
-    - 3541
-    - 3647
+    - 3863
+    - 3969
   label: 海蛤
   type: section
   level: 2
@@ -4160,8 +4160,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d10
     span:
     - body
-    - 3647
-    - 3655
+    - 3969
+    - 3977
   label: 文蛤
   type: section
   level: 2
@@ -4170,8 +4170,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d11
     span:
     - body
-    - 3655
-    - 3674
+    - 3977
+    - 3996
   label: 蠡魚
   type: section
   level: 2
@@ -4180,8 +4180,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d12
     span:
     - body
-    - 3674
-    - 3720
+    - 3996
+    - 4042
   label: 鯽魚
   type: section
   level: 2
@@ -4190,8 +4190,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d13
     span:
     - body
-    - 3720
-    - 3735
+    - 4042
+    - 4057
   label: 蝟皮
   type: section
   level: 2
@@ -4200,8 +4200,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d14
     span:
     - body
-    - 3735
-    - 3764
+    - 4057
+    - 4086
   label: 露蜂房
   type: section
   level: 2
@@ -4210,8 +4210,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d15
     span:
     - body
-    - 3764
-    - 3782
+    - 4086
+    - 4104
   label: 蟬蛻
   type: section
   level: 2
@@ -4220,8 +4220,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d16
     span:
     - body
-    - 3782
-    - 3854
+    - 4104
+    - 4176
   label: 烏賊魚骨
   type: section
   level: 2
@@ -4230,8 +4230,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d17
     span:
     - body
-    - 3854
-    - 3862
+    - 4176
+    - 4184
   label: 原蠶蛾
   type: section
   level: 2
@@ -4240,8 +4240,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d18
     span:
     - body
-    - 3862
-    - 3907
+    - 4184
+    - 4229
   label: 蠶蛻
   type: section
   level: 2
@@ -4250,8 +4250,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d19
     span:
     - body
-    - 3907
-    - 3991
+    - 4229
+    - 4313
   label: 白殭蠶
   type: section
   level: 2
@@ -4260,8 +4260,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d20
     span:
     - body
-    - 3991
-    - 3999
+    - 4313
+    - 4321
   label: 蛞蝓
   type: section
   level: 2
@@ -4270,8 +4270,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d21
     span:
     - body
-    - 3999
-    - 4016
+    - 4321
+    - 4338
   label: 蝸牛
   type: section
   level: 2
@@ -4280,8 +4280,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d22
     span:
     - body
-    - 4016
-    - 4061
+    - 4338
+    - 4383
   label: 䗪蟲
   type: section
   level: 2
@@ -4290,8 +4290,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d23
     span:
     - body
-    - 4061
-    - 4077
+    - 4383
+    - 4399
   label: 青魚膽
   type: section
   level: 2
@@ -4300,8 +4300,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d24
     span:
     - body
-    - 4077
-    - 4107
+    - 4399
+    - 4429
   label: 鱉甲
   type: section
   level: 2
@@ -4310,8 +4310,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d25
     span:
     - body
-    - 4107
-    - 4119
+    - 4429
+    - 4441
   label: 蠍
   type: section
   level: 2
@@ -4320,8 +4320,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d26
     span:
     - body
-    - 4119
-    - 4178
+    - 4441
+    - 4500
   label: 蟾酥
   type: section
   level: 2
@@ -4330,8 +4330,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d27
     span:
     - body
-    - 4178
-    - 4189
+    - 4500
+    - 4511
   label: 鼠糞
   type: section
   level: 2
@@ -4340,8 +4340,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d28
     span:
     - body
-    - 4189
-    - 4245
+    - 4511
+    - 4567
   label: 蚺蛇膽
   type: section
   level: 2
@@ -4350,8 +4350,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d29
     span:
     - body
-    - 4245
-    - 4312
+    - 4567
+    - 4634
   label: 蛇蛻
   type: section
   level: 2
@@ -4360,8 +4360,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d30
     span:
     - body
-    - 4312
-    - 4394
+    - 4634
+    - 4716
   label: 白頸蚯蚓
   type: section
   level: 2
@@ -4370,8 +4370,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d31
     span:
     - body
-    - 4394
-    - 4512
+    - 4716
+    - 4834
   label: 蜈蚣
   type: section
   level: 2
@@ -4380,8 +4380,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d32
     span:
     - body
-    - 4512
-    - 4639
+    - 4834
+    - 4961
   label: 蛤蚧
   type: section
   level: 2
@@ -4390,8 +4390,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d33
     span:
     - body
-    - 4639
-    - 4712
+    - 4961
+    - 5034
   label: 水蛭
   type: section
   level: 2
@@ -4400,8 +4400,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d34
     span:
     - body
-    - 4712
-    - 4787
+    - 5034
+    - 5109
   label: 斑蝥
   type: section
   level: 2
@@ -4410,8 +4410,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d35
     span:
     - body
-    - 4787
-    - 4926
+    - 5109
+    - 5248
   label: 白花蛇
   type: section
   level: 2
@@ -4420,8 +4420,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d36
     span:
     - body
-    - 4926
-    - 4932
+    - 5248
+    - 5254
   label: 烏蛇
   type: section
   level: 2
@@ -4430,8 +4430,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d37
     span:
     - body
-    - 4932
-    - 4953
+    - 5254
+    - 5275
   label: 蜣螂
   type: section
   level: 2
@@ -4440,8 +4440,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d38
     span:
     - body
-    - 4953
-    - 4995
+    - 5275
+    - 5317
   label: 五靈脂
   type: section
   level: 2
@@ -4450,8 +4450,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d16d39
     span:
     - body
-    - 4995
-    - 5304
+    - 5317
+    - 5626
   label: 穿山甲
   type: section
   level: 2
@@ -4460,8 +4460,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d17.h1s1
     span:
     - body
-    - 5304
-    - 6376
+    - 5626
+    - 6698
   label: 用藥凡例
   type: section
   level: 1
@@ -4470,8 +4470,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d18.h1s1
     span:
     - body
-    - 6376
-    - 7045
+    - 6698
+    - 7367
   label: 煎藥則例
   type: section
   level: 1
@@ -4480,8 +4480,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d20.h1s1
     span:
     - body
-    - 7045
-    - 7335
+    - 7367
+    - 7657
   label: 服藥禁忌
   type: section
   level: 1
@@ -4490,8 +4490,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d21.h1s1
     span:
     - body
-    - 7335
-    - 7423
+    - 7657
+    - 7745
   label: 妊娠服禁
   type: section
   level: 1
@@ -4500,8 +4500,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d22.h1s1
     span:
     - body
-    - 7423
-    - 7542
+    - 7745
+    - 7864
   label: 妊娠禁忌前歌所列藥品未盡特為拈附
   type: section
   level: 1
@@ -4510,8 +4510,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d23.h1s1
     span:
     - body
-    - 7542
-    - 7572
+    - 7864
+    - 7894
   label: 六陳
   type: section
   level: 1
@@ -4520,8 +4520,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d24.h1s1
     span:
     - body
-    - 7572
-    - 7701
+    - 7894
+    - 8023
   label: 十八反
   type: section
   level: 1
@@ -4530,8 +4530,8 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d25.h1s1
     span:
     - body
-    - 7701
-    - 7865
+    - 8023
+    - 8187
   label: 當禁不禁犯禁必死
   type: section
   level: 1
@@ -4540,9 +4540,9 @@ table_of_contents:
     marker_id: KR3ec088_jc_000-d26.h1s1
     span:
     - body
-    - 7865
-    - 7986
+    - 8187
+    - 8308
   label: 不必忌而忌之過
   type: section
   level: 1
-hash: sha256:a40659f112abcb8604c8d3d42c22980abbb74ec48bee3458f71f338adc17c7c1
+hash: sha256:27baecc5af9ddb764f0062c82db4c88d3072216f208ee9bb4c3f7629fdce9d62
